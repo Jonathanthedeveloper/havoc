@@ -1,1 +1,37 @@
-.idea
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+havoc
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories
+vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local env files
+.env
+.env.local
+
+# Debug
+debug
+*.log
+
+# Build output
+dist/

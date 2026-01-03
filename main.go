@@ -1,6 +1,5 @@
 /*
-Copyright © 2026 NAME HERE <EMAIL ADDRESS>
-
+Copyright © 2026 Jonathan <jonathancodes2@gmail.com>
 */
 package main
 
